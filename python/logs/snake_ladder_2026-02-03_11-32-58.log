@@ -1,0 +1,34 @@
+2026-02-03 11:32:58,770 | INFO | Snake & Ladder Game Session Started
+2026-02-03 11:32:58,779 | INFO | Ladder created: start at 3, end at 25
+2026-02-03 11:32:58,779 | INFO | Ladder created: start at 13, end at 46
+2026-02-03 11:32:58,779 | INFO | Ladder created: start at 33, end at 49
+2026-02-03 11:32:58,779 | INFO | Ladder created: start at 50, end at 69
+2026-02-03 11:32:58,779 | INFO | Ladder created: start at 74, end at 92
+2026-02-03 11:32:58,779 | INFO | Ladder created: start at 62, end at 81
+2026-02-03 11:32:58,779 | INFO | Ladder created: start at 42, end at 63
+2026-02-03 11:32:58,806 | INFO | Total ladders created: 7
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 40, tail at 3
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 99, tail at 41
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 43, tail at 18
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 76, tail at 58
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 66, tail at 45
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 27, tail at 5
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 89, tail at 53
+2026-02-03 11:32:58,808 | INFO | Snake created: head at 54, tail at 31
+2026-02-03 11:32:58,808 | INFO | 8 snakes created
+2026-02-03 11:32:58,808 | INFO | Board created with size 10x10, 7 ladders and 8 snakes
+2026-02-03 11:32:58,809 | INFO | Ladder from 3 to 25
+2026-02-03 11:32:58,809 | INFO | Ladder from 13 to 46
+2026-02-03 11:32:58,809 | INFO | Ladder from 33 to 49
+2026-02-03 11:32:58,809 | INFO | Ladder from 50 to 69
+2026-02-03 11:32:58,809 | INFO | Ladder from 74 to 92
+2026-02-03 11:32:58,810 | INFO | Ladder from 62 to 81
+2026-02-03 11:32:58,810 | INFO | Ladder from 42 to 63
+2026-02-03 11:32:58,810 | INFO | Snake from 40 to 3
+2026-02-03 11:32:58,810 | INFO | Snake from 99 to 41
+2026-02-03 11:32:58,810 | INFO | Snake from 43 to 18
+2026-02-03 11:32:58,810 | INFO | Snake from 76 to 58
+2026-02-03 11:32:58,811 | INFO | Snake from 66 to 45
+2026-02-03 11:32:58,811 | INFO | Snake from 27 to 5
+2026-02-03 11:32:58,811 | INFO | Snake from 89 to 53
+2026-02-03 11:32:58,811 | INFO | Snake from 54 to 31
