@@ -1,12 +1,13 @@
-# logger.py
 import logging
 from datetime import datetime
 import os
 
+
+# logger file to collect all the logs in the game 
 def create_logger():
     os.makedirs("logs", exist_ok=True)
     log_file = datetime.now().strftime("logs/snake_ladder_%Y-%m-%d_%H-%M-%S.log")
-
+    # file format
     logger = logging.getLogger("SnakeLadderLogger")
     logger.setLevel(logging.INFO)
 
@@ -17,19 +18,11 @@ def create_logger():
         "%(asctime)s | %(levelname)s | %(message)s"
     )
 
-    # FileHandler with UTF-8 encoding
-    file_handler = logging.FileHandler(log_file, encoding='utf-8')
+    file_handler = logging.FileHandler(log_file, encoding='utf-8')  #file handler
     file_handler.setFormatter(formatter)
     logger.addHandler(file_handler)
 
-    # No console logging (optional)
-    # console_handler = logging.StreamHandler()
-    # console_handler.setFormatter(formatter)
-    # logger.addHandler(console_handler)
-
-    # Use only ASCII-safe message here if needed
-    logger.info("Snake & Ladder Game Session Started")  # Removed emojis
-
+    logger.info("Snake & Ladder Game Session Started")
     return logger
 
-logger = create_logger()
+logger = create_logger() 

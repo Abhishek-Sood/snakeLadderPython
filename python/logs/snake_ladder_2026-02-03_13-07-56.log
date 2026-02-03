@@ -1,0 +1,369 @@
+2026-02-03 13:07:56,523 | INFO | Snake & Ladder Game Session Started
+2026-02-03 13:07:56,556 | INFO | Ladder created: start at 3, end at 25
+2026-02-03 13:07:56,556 | INFO | Ladder created: start at 13, end at 46
+2026-02-03 13:07:56,556 | INFO | Ladder created: start at 33, end at 49
+2026-02-03 13:07:56,556 | INFO | Ladder created: start at 50, end at 69
+2026-02-03 13:07:56,556 | INFO | Ladder created: start at 74, end at 92
+2026-02-03 13:07:56,556 | INFO | Ladder created: start at 62, end at 81
+2026-02-03 13:07:56,556 | INFO | Ladder created: start at 42, end at 63
+2026-02-03 13:07:56,557 | INFO | Total ladders created: 7
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 40, tail at 3
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 99, tail at 41
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 43, tail at 18
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 76, tail at 58
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 66, tail at 45
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 27, tail at 5
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 89, tail at 53
+2026-02-03 13:07:56,557 | INFO | Snake created: head at 54, tail at 31
+2026-02-03 13:07:56,557 | INFO | 8 snakes created
+2026-02-03 13:07:56,557 | INFO | Board created with size 10, 7 ladders and 8 snakes
+2026-02-03 13:07:59,737 | INFO | Player created: abhi at position 1
+2026-02-03 13:08:01,470 | INFO | Player created: nemos at position 1
+2026-02-03 13:08:02,357 | INFO | abhi is rolling the dice
+2026-02-03 13:08:02,357 | INFO | Dice rolled: 2
+2026-02-03 13:08:02,357 | INFO | abhi climbed ladder from 3 to 25
+2026-02-03 13:08:02,358 | INFO | abhi moved from 1 to 25
+2026-02-03 13:08:02,568 | INFO | nemos is rolling the dice
+2026-02-03 13:08:02,569 | INFO | Dice rolled: 3
+2026-02-03 13:08:02,569 | INFO | nemos moved from 1 to 4
+2026-02-03 13:08:02,784 | INFO | abhi is rolling the dice
+2026-02-03 13:08:02,784 | INFO | Dice rolled: 4
+2026-02-03 13:08:02,785 | INFO | abhi moved from 25 to 29
+2026-02-03 13:08:02,989 | INFO | nemos is rolling the dice
+2026-02-03 13:08:02,990 | INFO | Dice rolled: 6
+2026-02-03 13:08:02,990 | INFO | nemos moved from 4 to 10
+2026-02-03 13:08:03,227 | INFO | abhi is rolling the dice
+2026-02-03 13:08:03,227 | INFO | Dice rolled: 4
+2026-02-03 13:08:03,228 | INFO | abhi climbed ladder from 33 to 49
+2026-02-03 13:08:03,228 | INFO | abhi moved from 29 to 49
+2026-02-03 13:08:03,390 | INFO | nemos is rolling the dice
+2026-02-03 13:08:03,390 | INFO | Dice rolled: 5
+2026-02-03 13:08:03,391 | INFO | nemos moved from 10 to 15
+2026-02-03 13:08:03,543 | INFO | abhi is rolling the dice
+2026-02-03 13:08:03,543 | INFO | Dice rolled: 1
+2026-02-03 13:08:03,544 | INFO | abhi climbed ladder from 50 to 69
+2026-02-03 13:08:03,544 | INFO | abhi moved from 49 to 69
+2026-02-03 13:08:03,870 | INFO | nemos is rolling the dice
+2026-02-03 13:08:03,870 | INFO | Dice rolled: 1
+2026-02-03 13:08:03,870 | INFO | nemos moved from 15 to 16
+2026-02-03 13:08:03,978 | INFO | abhi is rolling the dice
+2026-02-03 13:08:03,979 | INFO | Dice rolled: 2
+2026-02-03 13:08:03,979 | INFO | abhi moved from 69 to 71
+2026-02-03 13:08:04,287 | INFO | nemos is rolling the dice
+2026-02-03 13:08:04,288 | INFO | Dice rolled: 5
+2026-02-03 13:08:04,288 | INFO | nemos moved from 16 to 21
+2026-02-03 13:08:04,395 | INFO | abhi is rolling the dice
+2026-02-03 13:08:04,395 | INFO | Dice rolled: 1
+2026-02-03 13:08:04,396 | INFO | abhi moved from 71 to 72
+2026-02-03 13:08:04,784 | INFO | nemos is rolling the dice
+2026-02-03 13:08:04,784 | INFO | Dice rolled: 5
+2026-02-03 13:08:04,785 | INFO | nemos moved from 21 to 26
+2026-02-03 13:08:05,276 | INFO | abhi is rolling the dice
+2026-02-03 13:08:05,277 | INFO | Dice rolled: 6
+2026-02-03 13:08:05,277 | INFO | abhi moved from 72 to 78
+2026-02-03 13:08:05,401 | INFO | nemos is rolling the dice
+2026-02-03 13:08:05,401 | INFO | Dice rolled: 6
+2026-02-03 13:08:05,402 | INFO | nemos moved from 26 to 32
+2026-02-03 13:08:05,790 | INFO | abhi is rolling the dice
+2026-02-03 13:08:05,791 | INFO | Dice rolled: 3
+2026-02-03 13:08:05,791 | INFO | abhi moved from 78 to 81
+2026-02-03 13:08:05,898 | INFO | nemos is rolling the dice
+2026-02-03 13:08:05,898 | INFO | Dice rolled: 3
+2026-02-03 13:08:05,899 | INFO | nemos moved from 32 to 35
+2026-02-03 13:08:06,196 | INFO | abhi is rolling the dice
+2026-02-03 13:08:06,197 | INFO | Dice rolled: 5
+2026-02-03 13:08:06,197 | INFO | abhi moved from 81 to 86
+2026-02-03 13:08:06,304 | INFO | nemos is rolling the dice
+2026-02-03 13:08:06,304 | INFO | Dice rolled: 1
+2026-02-03 13:08:06,304 | INFO | nemos moved from 35 to 36
+2026-02-03 13:08:06,596 | INFO | abhi is rolling the dice
+2026-02-03 13:08:06,596 | INFO | Dice rolled: 1
+2026-02-03 13:08:06,596 | INFO | abhi moved from 86 to 87
+2026-02-03 13:08:06,709 | INFO | nemos is rolling the dice
+2026-02-03 13:08:06,709 | INFO | Dice rolled: 3
+2026-02-03 13:08:06,710 | INFO | nemos moved from 36 to 39
+2026-02-03 13:08:06,967 | INFO | abhi is rolling the dice
+2026-02-03 13:08:06,968 | INFO | Dice rolled: 1
+2026-02-03 13:08:06,968 | INFO | abhi moved from 87 to 88
+2026-02-03 13:08:07,098 | INFO | nemos is rolling the dice
+2026-02-03 13:08:07,098 | INFO | Dice rolled: 4
+2026-02-03 13:08:07,099 | INFO | nemos bitten by snake from 43 to 18
+2026-02-03 13:08:07,099 | INFO | nemos moved from 39 to 18
+2026-02-03 13:08:07,392 | INFO | abhi is rolling the dice
+2026-02-03 13:08:07,392 | INFO | Dice rolled: 3
+2026-02-03 13:08:07,393 | INFO | abhi moved from 88 to 91
+2026-02-03 13:08:07,498 | INFO | nemos is rolling the dice
+2026-02-03 13:08:07,498 | INFO | Dice rolled: 1
+2026-02-03 13:08:07,498 | INFO | nemos moved from 18 to 19
+2026-02-03 13:08:07,889 | INFO | abhi is rolling the dice
+2026-02-03 13:08:07,890 | INFO | Dice rolled: 4
+2026-02-03 13:08:07,890 | INFO | abhi moved from 91 to 95
+2026-02-03 13:08:08,021 | INFO | nemos is rolling the dice
+2026-02-03 13:08:08,022 | INFO | Dice rolled: 5
+2026-02-03 13:08:08,022 | INFO | nemos moved from 19 to 24
+2026-02-03 13:08:08,207 | INFO | abhi is rolling the dice
+2026-02-03 13:08:08,207 | INFO | Dice rolled: 1
+2026-02-03 13:08:08,208 | INFO | abhi moved from 95 to 96
+2026-02-03 13:08:08,336 | INFO | nemos is rolling the dice
+2026-02-03 13:08:08,336 | INFO | Dice rolled: 3
+2026-02-03 13:08:08,337 | INFO | nemos bitten by snake from 27 to 5
+2026-02-03 13:08:08,337 | INFO | nemos moved from 24 to 5
+2026-02-03 13:08:08,472 | INFO | abhi is rolling the dice
+2026-02-03 13:08:08,472 | INFO | Dice rolled: 3
+2026-02-03 13:08:08,473 | INFO | abhi bitten by snake from 99 to 41
+2026-02-03 13:08:08,473 | INFO | abhi moved from 96 to 41
+2026-02-03 13:08:08,612 | INFO | nemos is rolling the dice
+2026-02-03 13:08:08,613 | INFO | Dice rolled: 3
+2026-02-03 13:08:08,613 | INFO | nemos moved from 5 to 8
+2026-02-03 13:08:08,736 | INFO | abhi is rolling the dice
+2026-02-03 13:08:08,736 | INFO | Dice rolled: 4
+2026-02-03 13:08:08,737 | INFO | abhi moved from 41 to 45
+2026-02-03 13:08:08,991 | INFO | nemos is rolling the dice
+2026-02-03 13:08:08,991 | INFO | Dice rolled: 4
+2026-02-03 13:08:08,991 | INFO | nemos moved from 8 to 12
+2026-02-03 13:08:09,125 | INFO | abhi is rolling the dice
+2026-02-03 13:08:09,125 | INFO | Dice rolled: 6
+2026-02-03 13:08:09,126 | INFO | abhi moved from 45 to 51
+2026-02-03 13:08:09,261 | INFO | nemos is rolling the dice
+2026-02-03 13:08:09,261 | INFO | Dice rolled: 4
+2026-02-03 13:08:09,262 | INFO | nemos moved from 12 to 16
+2026-02-03 13:08:09,401 | INFO | abhi is rolling the dice
+2026-02-03 13:08:09,401 | INFO | Dice rolled: 6
+2026-02-03 13:08:09,402 | INFO | abhi moved from 51 to 57
+2026-02-03 13:08:09,554 | INFO | nemos is rolling the dice
+2026-02-03 13:08:09,554 | INFO | Dice rolled: 1
+2026-02-03 13:08:09,554 | INFO | nemos moved from 16 to 17
+2026-02-03 13:08:09,682 | INFO | abhi is rolling the dice
+2026-02-03 13:08:09,682 | INFO | Dice rolled: 1
+2026-02-03 13:08:09,683 | INFO | abhi moved from 57 to 58
+2026-02-03 13:08:09,829 | INFO | nemos is rolling the dice
+2026-02-03 13:08:09,829 | INFO | Dice rolled: 1
+2026-02-03 13:08:09,830 | INFO | nemos moved from 17 to 18
+2026-02-03 13:08:09,963 | INFO | abhi is rolling the dice
+2026-02-03 13:08:09,963 | INFO | Dice rolled: 5
+2026-02-03 13:08:09,964 | INFO | abhi moved from 58 to 63
+2026-02-03 13:08:10,099 | INFO | nemos is rolling the dice
+2026-02-03 13:08:10,099 | INFO | Dice rolled: 6
+2026-02-03 13:08:10,100 | INFO | nemos moved from 18 to 24
+2026-02-03 13:08:10,229 | INFO | abhi is rolling the dice
+2026-02-03 13:08:10,229 | INFO | Dice rolled: 6
+2026-02-03 13:08:10,230 | INFO | abhi moved from 63 to 69
+2026-02-03 13:08:10,734 | INFO | nemos is rolling the dice
+2026-02-03 13:08:10,734 | INFO | Dice rolled: 2
+2026-02-03 13:08:10,734 | INFO | nemos moved from 24 to 26
+2026-02-03 13:08:10,763 | INFO | abhi is rolling the dice
+2026-02-03 13:08:10,763 | INFO | Dice rolled: 3
+2026-02-03 13:08:10,763 | INFO | abhi moved from 69 to 72
+2026-02-03 13:08:10,792 | INFO | nemos is rolling the dice
+2026-02-03 13:08:10,793 | INFO | Dice rolled: 1
+2026-02-03 13:08:10,793 | INFO | nemos bitten by snake from 27 to 5
+2026-02-03 13:08:10,793 | INFO | nemos moved from 26 to 5
+2026-02-03 13:08:10,822 | INFO | abhi is rolling the dice
+2026-02-03 13:08:10,823 | INFO | Dice rolled: 3
+2026-02-03 13:08:10,823 | INFO | abhi moved from 72 to 75
+2026-02-03 13:08:10,853 | INFO | nemos is rolling the dice
+2026-02-03 13:08:10,853 | INFO | Dice rolled: 1
+2026-02-03 13:08:10,853 | INFO | nemos moved from 5 to 6
+2026-02-03 13:08:10,885 | INFO | abhi is rolling the dice
+2026-02-03 13:08:10,885 | INFO | Dice rolled: 6
+2026-02-03 13:08:10,885 | INFO | abhi moved from 75 to 81
+2026-02-03 13:08:10,915 | INFO | nemos is rolling the dice
+2026-02-03 13:08:10,915 | INFO | Dice rolled: 4
+2026-02-03 13:08:10,916 | INFO | nemos moved from 6 to 10
+2026-02-03 13:08:10,945 | INFO | abhi is rolling the dice
+2026-02-03 13:08:10,945 | INFO | Dice rolled: 6
+2026-02-03 13:08:10,945 | INFO | abhi moved from 81 to 87
+2026-02-03 13:08:10,975 | INFO | nemos is rolling the dice
+2026-02-03 13:08:10,975 | INFO | Dice rolled: 3
+2026-02-03 13:08:10,975 | INFO | nemos climbed ladder from 13 to 46
+2026-02-03 13:08:10,975 | INFO | nemos moved from 10 to 46
+2026-02-03 13:08:11,005 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,005 | INFO | Dice rolled: 2
+2026-02-03 13:08:11,005 | INFO | abhi bitten by snake from 89 to 53
+2026-02-03 13:08:11,005 | INFO | abhi moved from 87 to 53
+2026-02-03 13:08:11,036 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,036 | INFO | Dice rolled: 2
+2026-02-03 13:08:11,036 | INFO | nemos moved from 46 to 48
+2026-02-03 13:08:11,068 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,068 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,068 | INFO | abhi moved from 53 to 58
+2026-02-03 13:08:11,096 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,096 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,097 | INFO | nemos moved from 48 to 53
+2026-02-03 13:08:11,127 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,127 | INFO | Dice rolled: 1
+2026-02-03 13:08:11,127 | INFO | abhi moved from 58 to 59
+2026-02-03 13:08:11,157 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,157 | INFO | Dice rolled: 3
+2026-02-03 13:08:11,157 | INFO | nemos moved from 53 to 56
+2026-02-03 13:08:11,187 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,187 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,187 | INFO | abhi moved from 59 to 63
+2026-02-03 13:08:11,219 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,219 | INFO | Dice rolled: 2
+2026-02-03 13:08:11,219 | INFO | nemos moved from 56 to 58
+2026-02-03 13:08:11,251 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,251 | INFO | Dice rolled: 3
+2026-02-03 13:08:11,251 | INFO | abhi bitten by snake from 66 to 45
+2026-02-03 13:08:11,251 | INFO | abhi moved from 63 to 45
+2026-02-03 13:08:11,279 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,279 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,280 | INFO | nemos climbed ladder from 62 to 81
+2026-02-03 13:08:11,280 | INFO | nemos moved from 58 to 81
+2026-02-03 13:08:11,309 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,309 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,310 | INFO | abhi climbed ladder from 50 to 69
+2026-02-03 13:08:11,310 | INFO | abhi moved from 45 to 69
+2026-02-03 13:08:11,339 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,339 | INFO | Dice rolled: 1
+2026-02-03 13:08:11,340 | INFO | nemos moved from 81 to 82
+2026-02-03 13:08:11,370 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,370 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,370 | INFO | abhi climbed ladder from 74 to 92
+2026-02-03 13:08:11,370 | INFO | abhi moved from 69 to 92
+2026-02-03 13:08:11,401 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,401 | INFO | Dice rolled: 2
+2026-02-03 13:08:11,401 | INFO | nemos moved from 82 to 84
+2026-02-03 13:08:11,431 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,431 | INFO | Dice rolled: 2
+2026-02-03 13:08:11,431 | INFO | abhi moved from 92 to 94
+2026-02-03 13:08:11,461 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,461 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,461 | INFO | nemos bitten by snake from 89 to 53
+2026-02-03 13:08:11,462 | INFO | nemos moved from 84 to 53
+2026-02-03 13:08:11,491 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,491 | INFO | Dice rolled: 1
+2026-02-03 13:08:11,492 | INFO | abhi moved from 94 to 95
+2026-02-03 13:08:11,522 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,522 | INFO | Dice rolled: 3
+2026-02-03 13:08:11,522 | INFO | nemos moved from 53 to 56
+2026-02-03 13:08:11,553 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,553 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,553 | INFO | abhi bitten by snake from 99 to 41
+2026-02-03 13:08:11,553 | INFO | abhi moved from 95 to 41
+2026-02-03 13:08:11,585 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,585 | INFO | Dice rolled: 1
+2026-02-03 13:08:11,586 | INFO | nemos moved from 56 to 57
+2026-02-03 13:08:11,614 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,614 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,614 | INFO | abhi moved from 41 to 45
+2026-02-03 13:08:11,644 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,644 | INFO | Dice rolled: 1
+2026-02-03 13:08:11,644 | INFO | nemos moved from 57 to 58
+2026-02-03 13:08:11,674 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,675 | INFO | Dice rolled: 3
+2026-02-03 13:08:11,675 | INFO | abhi moved from 45 to 48
+2026-02-03 13:08:11,705 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,705 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,705 | INFO | nemos moved from 58 to 63
+2026-02-03 13:08:11,736 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,736 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,736 | INFO | abhi moved from 48 to 52
+2026-02-03 13:08:11,768 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,769 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,769 | INFO | nemos moved from 63 to 67
+2026-02-03 13:08:11,796 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,796 | INFO | Dice rolled: 2
+2026-02-03 13:08:11,796 | INFO | abhi bitten by snake from 54 to 31
+2026-02-03 13:08:11,796 | INFO | abhi moved from 52 to 31
+2026-02-03 13:08:11,826 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,826 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,827 | INFO | nemos moved from 67 to 71
+2026-02-03 13:08:11,856 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,856 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,857 | INFO | abhi moved from 31 to 35
+2026-02-03 13:08:11,887 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,887 | INFO | Dice rolled: 6
+2026-02-03 13:08:11,887 | INFO | nemos moved from 71 to 77
+2026-02-03 13:08:11,919 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,919 | INFO | Dice rolled: 4
+2026-02-03 13:08:11,919 | INFO | abhi moved from 35 to 39
+2026-02-03 13:08:11,947 | INFO | nemos is rolling the dice
+2026-02-03 13:08:11,947 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,948 | INFO | nemos moved from 77 to 82
+2026-02-03 13:08:11,978 | INFO | abhi is rolling the dice
+2026-02-03 13:08:11,978 | INFO | Dice rolled: 5
+2026-02-03 13:08:11,978 | INFO | abhi moved from 39 to 44
+2026-02-03 13:08:12,008 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,008 | INFO | Dice rolled: 1
+2026-02-03 13:08:12,008 | INFO | nemos moved from 82 to 83
+2026-02-03 13:08:12,039 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,039 | INFO | Dice rolled: 6
+2026-02-03 13:08:12,039 | INFO | abhi climbed ladder from 50 to 69
+2026-02-03 13:08:12,039 | INFO | abhi moved from 44 to 69
+2026-02-03 13:08:12,069 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,069 | INFO | Dice rolled: 1
+2026-02-03 13:08:12,069 | INFO | nemos moved from 83 to 84
+2026-02-03 13:08:12,101 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,101 | INFO | Dice rolled: 6
+2026-02-03 13:08:12,101 | INFO | abhi moved from 69 to 75
+2026-02-03 13:08:12,131 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,131 | INFO | Dice rolled: 4
+2026-02-03 13:08:12,131 | INFO | nemos moved from 84 to 88
+2026-02-03 13:08:12,160 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,161 | INFO | Dice rolled: 3
+2026-02-03 13:08:12,161 | INFO | abhi moved from 75 to 78
+2026-02-03 13:08:12,192 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,192 | INFO | Dice rolled: 3
+2026-02-03 13:08:12,192 | INFO | nemos moved from 88 to 91
+2026-02-03 13:08:12,221 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,222 | INFO | Dice rolled: 3
+2026-02-03 13:08:12,222 | INFO | abhi moved from 78 to 81
+2026-02-03 13:08:12,252 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,252 | INFO | Dice rolled: 3
+2026-02-03 13:08:12,252 | INFO | nemos moved from 91 to 94
+2026-02-03 13:08:12,285 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,285 | INFO | Dice rolled: 5
+2026-02-03 13:08:12,285 | INFO | abhi moved from 81 to 86
+2026-02-03 13:08:12,313 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,313 | INFO | Dice rolled: 1
+2026-02-03 13:08:12,314 | INFO | nemos moved from 94 to 95
+2026-02-03 13:08:12,343 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,343 | INFO | Dice rolled: 1
+2026-02-03 13:08:12,344 | INFO | abhi moved from 86 to 87
+2026-02-03 13:08:12,374 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,374 | INFO | Dice rolled: 6
+2026-02-03 13:08:12,375 | INFO | nemos rolled too high to move from 95
+2026-02-03 13:08:12,375 | INFO | nemos moved from 95 to 95
+2026-02-03 13:08:12,404 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,404 | INFO | Dice rolled: 6
+2026-02-03 13:08:12,404 | INFO | abhi moved from 87 to 93
+2026-02-03 13:08:12,434 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,435 | INFO | Dice rolled: 4
+2026-02-03 13:08:12,435 | INFO | nemos bitten by snake from 99 to 41
+2026-02-03 13:08:12,435 | INFO | nemos moved from 95 to 41
+2026-02-03 13:08:12,465 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,465 | INFO | Dice rolled: 6
+2026-02-03 13:08:12,465 | INFO | abhi bitten by snake from 99 to 41
+2026-02-03 13:08:12,465 | INFO | abhi moved from 93 to 41
+2026-02-03 13:08:12,495 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,495 | INFO | Dice rolled: 5
+2026-02-03 13:08:12,496 | INFO | nemos moved from 41 to 46
+2026-02-03 13:08:12,525 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,526 | INFO | Dice rolled: 2
+2026-02-03 13:08:12,526 | INFO | abhi bitten by snake from 43 to 18
+2026-02-03 13:08:12,526 | INFO | abhi moved from 41 to 18
+2026-02-03 13:08:12,555 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,556 | INFO | Dice rolled: 4
+2026-02-03 13:08:12,556 | INFO | nemos climbed ladder from 50 to 69
+2026-02-03 13:08:12,556 | INFO | nemos moved from 46 to 69
+2026-02-03 13:08:12,587 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,587 | INFO | Dice rolled: 3
+2026-02-03 13:08:12,587 | INFO | abhi moved from 18 to 21
+2026-02-03 13:08:12,618 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,618 | INFO | Dice rolled: 5
+2026-02-03 13:08:12,619 | INFO | nemos climbed ladder from 74 to 92
+2026-02-03 13:08:12,619 | INFO | nemos moved from 69 to 92
+2026-02-03 13:08:12,647 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,647 | INFO | Dice rolled: 1
+2026-02-03 13:08:12,647 | INFO | abhi moved from 21 to 22
+2026-02-03 13:08:12,677 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,678 | INFO | Dice rolled: 5
+2026-02-03 13:08:12,678 | INFO | nemos moved from 92 to 97
+2026-02-03 13:08:12,708 | INFO | abhi is rolling the dice
+2026-02-03 13:08:12,708 | INFO | Dice rolled: 1
+2026-02-03 13:08:12,708 | INFO | abhi moved from 22 to 23
+2026-02-03 13:08:12,738 | INFO | nemos is rolling the dice
+2026-02-03 13:08:12,738 | INFO | Dice rolled: 3
+2026-02-03 13:08:12,739 | INFO | nemos moved from 97 to 100
+2026-02-03 13:08:12,739 | INFO | Player nemos has won the game!

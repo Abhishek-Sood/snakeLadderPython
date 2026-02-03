@@ -1,7 +1,8 @@
 from logger import logger
 
+
 class ladder:
-    def __init__(self, start, end):
+    def __init__(self, start, end):  # constructor with ladder start and ladder end
         self.start = start
         self.end = end
         logger.info(f"Ladder created: start at {self.start}, end at {self.end}")
